@@ -16,8 +16,6 @@ filename = "/Users/Arlen/Vscode/gpt_paper/summary.md"
 with open(filename, "a", encoding="utf-8") as file:
     breakpoint()
     file.write("# " + paper.title + "\n")
-    file.write(
-        "## Published in " + paper.published.strftime("%m/%d/%Y, %H:%M:%S") + "\n"
-    )
+    file.write("Published in " + paper.published.strftime("%m/%d/%Y, %H:%M:%S") + "\n")
     file.write("## Summary\n")
     file.write("- " + paper.summary + "\n")

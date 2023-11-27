@@ -1,6 +1,5 @@
 # Llama 2: Open Foundation and Fine-Tuned Chat Models
-# Llama 2: Open Foundation and Fine-Tuned Chat Models
-## Published in 07/18/2023, 14:31:57
+Published in 07/18/2023, 14:31:57
 ## Summary
 In this work, we develop and release Llama 2, a collection of pretrained and
 fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70
